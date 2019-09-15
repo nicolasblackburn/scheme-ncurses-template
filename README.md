@@ -1,6 +1,6 @@
 scheme-ncurses-template
 =======================
-A chicken 5 scheme project template for making terminal applications in ncurse
+A chicken 5 scheme project template for making terminal applications in ncurses
 
 
 Dependencies
