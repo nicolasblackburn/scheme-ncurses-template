@@ -1,6 +1,6 @@
-scheme-tetris
-=============
-A chicken scheme implementation of Tetris in ncurse
+scheme-ncurses-template
+=======================
+A chicken 5 scheme project template for making terminal applications in ncurse
 
 
 Dependencies
